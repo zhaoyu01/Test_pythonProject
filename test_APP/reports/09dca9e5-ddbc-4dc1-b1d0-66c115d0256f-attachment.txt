@@ -1,0 +1,8 @@
+{'code': 0, 'msg': None, 'data': {'token': '0bf75f9a4d474d5b95ede47c299fb28f'}}
+测试人员刘备
+WOMEN
+http://192.168.101.102/file/2023/2/15/16764494075544.jpg
+1988-05-04
+HR
+{'code': 0, 'msg': None, 'data': True}
+基本信息修改成功

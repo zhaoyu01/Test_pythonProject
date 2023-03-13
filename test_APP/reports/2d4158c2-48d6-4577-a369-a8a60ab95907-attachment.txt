@@ -1,0 +1,2 @@
+{'code': 0, 'msg': None, 'data': {'token': '7001f9c691134a69b2de6b85f36e6ac5'}}
+取消成功

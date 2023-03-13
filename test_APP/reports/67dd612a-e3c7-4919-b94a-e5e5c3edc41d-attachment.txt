@@ -1,0 +1,8 @@
+{'code': 0, 'msg': None, 'data': {'token': 'f6a7e9a4f5c94b828c1015f8fa922375'}}
+测试人员关羽
+WOMEN
+http://192.168.101.102/file/2023/2/15/16764494075544.jpg
+1994-07-24
+STUDENT
+{'code': 0, 'msg': None, 'data': True}
+基本信息修改成功

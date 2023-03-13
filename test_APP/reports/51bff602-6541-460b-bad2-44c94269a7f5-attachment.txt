@@ -1,0 +1,8 @@
+{'code': 0, 'msg': None, 'data': {'token': 'f626f2989daf41258a88abb55db8f629'}}
+测试人员李清照
+WOMEN
+http://192.168.101.102/file/2023/2/15/16764496104075.png
+2005-03-18
+HEADHUNTING
+{'code': 0, 'msg': None, 'data': True}
+基本信息修改成功

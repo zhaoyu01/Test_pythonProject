@@ -1,0 +1,3 @@
+{'code': 0, 'msg': None, 'data': {'token': '9d6f1d2ead904abdb4525c743e7c4a29'}}
+{'code': 1, 'msg': '手机号传入有误，不是当前账号绑定的手机号！', 'data': None}
+验证码错误

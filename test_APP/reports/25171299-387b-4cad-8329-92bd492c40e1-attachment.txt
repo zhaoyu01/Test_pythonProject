@@ -1,0 +1,2 @@
+{'code': 0, 'msg': None, 'data': {'result': True}}
+收藏成功

@@ -1,0 +1,2 @@
+{'code': 0, 'msg': None, 'data': {'token': '48ee8670cd6b480582fe43b7cf5b0717'}}
+{'code': 0, 'msg': None, 'data': {'userName': '闪推929', 'hasWeChat': False, 'hasPassword': True, 'mobile': 19100000000, 'nickName': '测试人员孟浩然', 'gender': 'MEN', 'headImage': 'http://192.168.101.102/file/2023/2/15/16764496104075.png', 'birthday': '1974-08-20', 'type': 'WORKPLACE', 'email': None, 'weChat': '19100000000'}}

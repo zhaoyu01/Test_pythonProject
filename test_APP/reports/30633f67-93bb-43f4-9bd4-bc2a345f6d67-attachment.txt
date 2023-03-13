@@ -1,0 +1,3 @@
+{'code': 0, 'msg': None, 'data': {'token': '909a5b3b921a4dde9bdea3acd42772f7'}}
+{'code': 0, 'msg': None, 'data': {'result': True}}
+收藏成功

@@ -1,0 +1,4 @@
+{'code': 0, 'msg': None, 'data': {'token': '537d60135f9e417c8bd668e8de4a55be'}}
+{'type': 'INTEREST'}
+{'code': 0, 'msg': None, 'data': {'id': 61, 'userId': 2204, 'type': 'GREETING_CHAT', 'status': True}}
+成功
