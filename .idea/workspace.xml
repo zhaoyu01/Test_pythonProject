@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="">
+    <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="变更阎晓粱测试">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,13 +22,6 @@
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value="dev_test" />
-      </list>
-    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/run_case.py" root0="FORCE_HIGHLIGHTING" />
@@ -279,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678760084418</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="变更阎晓粱测试">
+      <created>1678762857444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678762857444</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +288,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
     <MESSAGE value="测试提交下" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试提交下" />
+    <MESSAGE value="变更阎晓粱测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="变更阎晓粱测试" />
   </component>
 </project>
