@@ -1,8 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': '035bd16c6d574315a863d20c092c86e8'}}
-测试人员赵云
-WOMEN
-http://192.168.101.102/file/2023/2/15/16764494075544.jpg
-2005-01-06
-HEADHUNTING
-{'code': 0, 'msg': None, 'data': True}
-基本信息修改成功

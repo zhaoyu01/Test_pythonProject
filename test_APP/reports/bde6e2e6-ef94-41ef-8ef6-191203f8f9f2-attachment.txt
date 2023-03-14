@@ -1,3 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': '8ee8337a2a1b40b3bfbd952ce9097b12'}}
-{'code': 0, 'msg': None, 'data': ''}
-成功

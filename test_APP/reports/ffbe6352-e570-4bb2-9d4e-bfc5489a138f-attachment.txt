@@ -1,3 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'b45c897124964aaaab51fc017594b156'}}
-{'code': 0, 'msg': None, 'data': True}
-配置成功

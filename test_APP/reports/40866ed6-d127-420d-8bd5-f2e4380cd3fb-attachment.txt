@@ -1,2 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'c50972b350f04906b235cf4322497f38'}}
-{'code': 1, 'msg': '红包不存在', 'data': None}

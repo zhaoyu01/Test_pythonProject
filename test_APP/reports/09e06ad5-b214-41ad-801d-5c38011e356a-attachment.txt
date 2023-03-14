@@ -1,1 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'userName': '闪推929', 'hasWeChat': False, 'hasPassword': True, 'mobile': 19100000000, 'nickName': '测试人员马超', 'gender': 'WOMEN', 'headImage': 'http://192.168.101.102/file/2023/2/15/16764496104075.png', 'birthday': '2007-10-03', 'type': 'HR', 'email': None, 'weChat': '19100000000'}}

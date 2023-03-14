@@ -1,3 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'fcc437a789f642ed8cd20f18d3dff109'}}
-{'code': 1, 'msg': '动态码已失效，请重新发送', 'data': None}
-绑定失败

@@ -1,3 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'fcf3224de21b4cb5877fde76095bbba5'}}
-{'code': 0, 'msg': None, 'data': {'result': True}}
-收藏成功

@@ -1,3 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'a7ab85aa6c9d4955a47e5e4275bb653b'}}
-{'code': 1, 'msg': '当日获取验证码次数超限', 'data': None}
-绑定失败

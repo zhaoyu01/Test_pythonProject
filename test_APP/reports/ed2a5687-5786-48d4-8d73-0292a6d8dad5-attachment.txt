@@ -1,3 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'adb5f407f8674baba5a0130987d49bb8'}}
-{'code': 1, 'msg': '手机号传入有误，不是当前账号绑定的手机号！', 'data': None}
-验证码错误

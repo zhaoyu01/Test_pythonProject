@@ -1,8 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'aeaf8ccb5c3a46e48ec9094d6150edb1'}}
-测试人员陆游
-MEN
-http://192.168.101.102/file/2023/2/15/16764496104075.png
-2001-02-09
-STUDENT
-{'code': 0, 'msg': None, 'data': True}
-基本信息修改成功

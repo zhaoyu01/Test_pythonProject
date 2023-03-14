@@ -1,8 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'cb32555f1e254cad8a95ce6ed0d49f0b'}}
-测试人员孟浩然
-WOMEN
-http://192.168.101.102/file/2023/2/15/16764494075544.jpg
-1981-01-28
-WORKPLACE
-{'code': 0, 'msg': None, 'data': True}
-基本信息修改成功

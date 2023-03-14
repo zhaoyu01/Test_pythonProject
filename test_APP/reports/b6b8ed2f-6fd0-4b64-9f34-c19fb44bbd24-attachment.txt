@@ -1,3 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': '753553d979054f5ca9220d94ddbf3489'}}
-{'code': 1, 'msg': '您还没有个人简历!', 'data': None}
-失败

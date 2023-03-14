@@ -1,3 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'd7d53c18da2d4e3e924f81a5ffe9eaa5'}}
-{'code': 1, 'msg': '您还没有个人简历!', 'data': None}
-发送失败 您还没有个人简历!

@@ -1,8 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'd5c52d4030ea4b3784eb536168f9f857'}}
-测试人员孟浩然
-MEN
-http://192.168.101.102/file/2023/2/15/16764496104075.png
-1974-08-20
-WORKPLACE
-{'code': 0, 'msg': None, 'data': True}
-基本信息修改成功

@@ -1,3 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': '2335cf22287f48e49231f98076531b4f'}}
-{'code': 0, 'msg': None, 'data': {'orderId': None, 'status': None, 'remark': None, 'safety': False, 'mobile': 19100000000}}
-成功提现

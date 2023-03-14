@@ -1,2 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': 'df534e97e91c47edb3cfa3102aca4e41'}}
-{'code': 0, 'msg': None, 'data': {'result': True}}

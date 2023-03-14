@@ -47,7 +47,7 @@ class DeleteFile(object):
         # 获取当前时间
         today = datetime.datetime.now()
         # 计算偏移量,前3天
-        offset = datetime.timedelta(days=-1)
+        offset = datetime.timedelta(days=-0)
         # 获取想要的日期的时间,即前3天时间，时间可以根据需求来设置
         re_date = (today + offset)
         # 前3天时间转换为时间戳

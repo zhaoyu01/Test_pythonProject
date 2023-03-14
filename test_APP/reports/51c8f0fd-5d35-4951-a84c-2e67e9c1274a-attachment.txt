@@ -1,3 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': '932364e71e51451b9b8e800bfb321e72'}}
-{"code":0,"msg":null,"data":true}
-标记已读

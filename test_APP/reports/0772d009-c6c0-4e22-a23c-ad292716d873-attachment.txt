@@ -1,8 +1,0 @@
-{'code': 0, 'msg': None, 'data': {'token': '7e2c4e8251ab4aebaf67c6e66b6f5d57'}}
-测试人员关羽
-WOMEN
-http://192.168.101.102/file/2023/2/15/16764494075544.jpg
-1991-11-21
-HEADHUNTING
-{'code': 0, 'msg': None, 'data': True}
-基本信息修改成功
