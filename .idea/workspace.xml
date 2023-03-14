@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/testcase_nll/cesssssssss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_APP/APP_B/job/test_MemberSave.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_B/job/test_MemberSave.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_APP/APP_B/job/test_ReleaseTmlp.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_B/job/test_ReleaseTmlp.py" afterDir="false" />
-    </list>
+    <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +20,13 @@
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="D:\zhaoyu\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="dev_test" />
+      </list>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/run_case.py" root0="FORCE_HIGHLIGHTING" />
@@ -255,7 +257,7 @@
       <workItem from="1678675018924" duration="20000" />
       <workItem from="1678675049220" duration="19560000" />
       <workItem from="1678696912824" duration="62000" />
-      <workItem from="1678697096936" duration="4133000" />
+      <workItem from="1678697096936" duration="4559000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1678697429496</created>
@@ -271,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678697739099</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试提交下">
+      <created>1678760084418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678760084418</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +288,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="测试提交下" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交下" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject1$test_case.coverage" NAME="test_case 覆盖结果" MODIFIED="1678345972575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test" />
