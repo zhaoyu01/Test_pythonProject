@@ -14,7 +14,7 @@ def email_ttt():
     # 发送邮箱
     sender = '448204492@qq.com'
     # 接收邮箱
-    receiver = ['13835348871@139.com']
+    receiver = ['13835348871@139.com', 'li271050@163.com', '18035964746@163.com']
 
     # 发送文件主题
     subject = '自动化测试报告'
