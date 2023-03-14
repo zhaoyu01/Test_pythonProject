@@ -4,10 +4,78 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="删除测试数据">
-      <change afterPath="$PROJECT_DIR$/test_APP/APP_B/job/1.py" afterDir="false" />
+    <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_B/common/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_B/manage/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_B/message/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_B/recommend/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_B/resume/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_B/talent/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_B/web_im/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/discovery/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/doc/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/index/text" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_APP/Common/Login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Common/Login_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/email.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_emali/email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_Change Password.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_Change Password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_Mobile.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_Mobile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_abtain_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/common/test_abtain_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_bind_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_bind_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_collect.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/search/test_collect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_confing.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/im/test_confing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_defChat.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/im/test_defChat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_informationt.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_informationt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_money.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_money.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_redPack.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_redPack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_setup_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_setup_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_updateUserConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/im/test_updateUserConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_My_tab/test_verification_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_verification_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/0684a4dc-895c-4a79-9862-fb01458cd646-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/06c6e9e6-ac8f-4c3b-81bd-1f23421e8a8e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/10d1d95d-8558-4bf6-bdfa-53644d2e654b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/11ec2312-1875-40b5-8d63-91aa3f022f28-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/1632daf6-8ba2-4e3b-8002-81726ff62765-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/26e77684-977b-4afc-b62d-70c369662e0e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/3d42af4d-7206-4096-a536-6b05f0f92632-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/3e39ba98-17e1-4c3d-98f0-e34a7757496e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/41a2341c-62ac-489b-99ac-da356c90dcd3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/47753f88-dae6-4a78-8059-4a17863bea10-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/4d0ccf7e-7531-458a-9dbc-fe90b5bd85d3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/4d48732a-4010-4acc-8714-79b58c61be07-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/50045876-bd5e-4670-99cf-8cd26d286f50-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/5093c88b-349e-4b5c-8b2d-d23aba0141f9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/54398208-de38-4040-bc56-29f8a611afad-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/554fa8b9-fc80-4d65-8df3-5a095fad5a1b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/871eecaf-1e14-46ec-b9d4-d842c6fcdfd6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/893fe359-2784-43c1-b8bd-45916ed95b37-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/95baf872-59db-46f6-a839-7a518e01672e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/aaaea31a-9f8d-454d-b4f7-e64a07b291f9-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/b68dc819-83ca-45c7-9e27-e1ca147f5071-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/c6fa6ebc-02c9-456a-8f5f-51b32fe8cde6-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/c8a66d00-b40a-4d77-b0bf-690da4e94792-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/d05b9982-d4b9-4b49-9a47-e82b08273c97-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/dd36f5e1-33dc-4d8f-956c-a9e747750257-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/dd517434-c25e-4e1d-ba14-dc0ec6c67292-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/e4c01d1a-98b1-478d-a75e-db2fed9afb6a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/ecfeab14-dbf9-4406-9955-ac05f87d41e0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/ee54b5c9-2d85-43f3-8eac-c6ce60dbd92d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/reports/ffc8c3cc-12af-4079-b33f-b998d4c572c4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/test_add.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_case/test_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/resumeIm_Test/test_applicationSend.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_applicationSend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/resumeIm_Test/test_chatStatus.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/im/test_chatStatus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/resumeIm_Test/test_messageRead.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/message/test_messageRead.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/resumeIm_Test/test_rejectSend.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_rejectSend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/resumeIm_Test/test_resultSend.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/im/test_resultSend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_new/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_B/auth/text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_new/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_new/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_new/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_new/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_new/.idea/testcase_new.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_new/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase_nll/test_cancelled.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +92,13 @@
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="D:\zhaoyu\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="dev_test" />
+      </list>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/run_case.py" root0="FORCE_HIGHLIGHTING" />
@@ -57,14 +132,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\zhaoyu\Test_pythonProject1\test_APP\APP_B\job" />
-      <recent name="D:\zhaoyu\Test_pythonProject1\test_APP\Test_My_tab" />
-      <recent name="D:\zhaoyu\pythonProject1\APP_Test\My_tab" />
-      <recent name="D:\zhaoyu\pythonProject1\APP_Test\resumeIm_Test" />
-      <recent name="D:\zhaoyu\pythonProject1\APP_Test\resume_Test" />
+      <recent name="D:\zhaoyu\Test_pythonProject\test_APP\Test_APP_C\im" />
+      <recent name="D:\zhaoyu\Test_pythonProject\test_APP\Test_APP_C\common" />
+      <recent name="D:\zhaoyu\Test_pythonProject\test_APP\Test_APP_C\personal" />
+      <recent name="D:\zhaoyu\Test_pythonProject\test_APP\Test_APP_C\search" />
+      <recent name="D:\zhaoyu\Test_pythonProject\test_APP\Test_APP_C\message" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.case_run">
+  <component name="RunManager" selected="Python 测试.test_name.test_edit_information1 的 pytest">
     <configuration name="Login_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,23 +228,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest (test_ReleaseTmlp.py 内)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/APP_B/test_position" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_APP/Test_APP_B/job/test_ReleaseTmlp.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="test_APP.APP_B.job.test_MemberSave.test_MemberSave 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,12 +245,12 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_APP.APP_B.job.test_ReleaseTmlp.test_release 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="test_add.test_edit 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/APP_B/test_position" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/Test_case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -200,7 +258,24 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_APP.APP_B.job.test_ReleaseTmlp.test_release&quot;" />
+      <option name="_new_target" value="&quot;test_add.test_edit&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_name.test_edit_information1 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/Test_APP_C/personal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_name.test_edit_information1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -209,17 +284,17 @@
       <item itemvalue="Python.pythonProject1" />
       <item itemvalue="Python.case_run" />
       <item itemvalue="Python.Login_test" />
-      <item itemvalue="Python 测试.pytest (test_ReleaseTmlp.py 内)" />
+      <item itemvalue="Python 测试.test_add.test_edit 的 pytest" />
+      <item itemvalue="Python 测试.test_name.test_edit_information1 的 pytest" />
       <item itemvalue="Python 测试.test_APP.APP_B.job.test_MemberSave.test_MemberSave 的 pytest" />
-      <item itemvalue="Python 测试.test_APP.APP_B.job.test_ReleaseTmlp.test_release 的 pytest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python 测试.test_name.test_edit_information1 的 pytest" />
+        <item itemvalue="Python 测试.test_add.test_edit 的 pytest" />
         <item itemvalue="Python.case_run" />
         <item itemvalue="Python.Login_test" />
         <item itemvalue="Python 测试.test_APP.APP_B.job.test_MemberSave.test_MemberSave 的 pytest" />
-        <item itemvalue="Python 测试.test_APP.APP_B.job.test_ReleaseTmlp.test_release 的 pytest" />
-        <item itemvalue="Python 测试.pytest (test_ReleaseTmlp.py 内)" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +329,7 @@
       <workItem from="1678675018924" duration="20000" />
       <workItem from="1678675049220" duration="19560000" />
       <workItem from="1678696912824" duration="62000" />
-      <workItem from="1678697096936" duration="6095000" />
+      <workItem from="1678697096936" duration="9565000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1678697429496</created>
@@ -298,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678765597542</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="删除测试数据">
+      <created>1678766241724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678766241724</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,6 +425,7 @@
     <SUITE FILE_PATH="coverage/pythonProject1$test_001.coverage" NAME="test_001 覆盖结果" MODIFIED="1677834503877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_new" />
     <SUITE FILE_PATH="coverage/Test_pythonProject1$pytest__test_case_py__.coverage" NAME="pytest (test_case.py 内) 覆盖结果" MODIFIED="1678675646771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP" />
     <SUITE FILE_PATH="coverage/Test_pythonProject1$nwe_test.coverage" NAME="nwe_test 覆盖结果" MODIFIED="1678685379460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/app-c" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_add_test_edit__pytest.coverage" NAME="test_add.test_edit 的 pytest 覆盖结果" MODIFIED="1678770938603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_case" />
     <SUITE FILE_PATH="coverage/Test_pythonProject1$clear.coverage" NAME="clear 覆盖结果" MODIFIED="1678684035382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP" />
     <SUITE FILE_PATH="coverage/pythonProject1$test_name.coverage" NAME="test_name 覆盖结果" MODIFIED="1678344773442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/Test_case" />
     <SUITE FILE_PATH="coverage/pythonProject1$pytest__test_case_py__.coverage" NAME="pytest (test_case.py 内) 覆盖结果" MODIFIED="1678674873544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test" />
@@ -368,5 +451,6 @@
     <SUITE FILE_PATH="coverage/Test_pythonProject1$test_ReleaseTmlp_Test_release_test_release__pytest.coverage" NAME="test_ReleaseTmlp.Test_release.test_release 的 pytest 覆盖结果" MODIFIED="1678688270991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/APP_B/test_position" />
     <SUITE FILE_PATH="coverage/pythonProject1$message_read.coverage" NAME="message_read 覆盖结果" MODIFIED="1678173559379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/app-c" />
     <SUITE FILE_PATH="coverage/pythonProject1$test_collect.coverage" NAME="test_collect 覆盖结果" MODIFIED="1678173698792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/app-c" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_name_test_edit_information1__pytest.coverage" NAME="test_name.test_edit_information1 的 pytest 覆盖结果" MODIFIED="1678770947285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/personal" />
   </component>
 </project>
