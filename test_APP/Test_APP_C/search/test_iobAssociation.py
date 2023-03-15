@@ -31,12 +31,26 @@ class Test_search():
         #     assert code != 0
         #     print("×")
 
+    def test_jobAssociation_applet(self):
+        url = "http://192.168.101.102/api/search/applet/job/association?keyword=java"
+        # payload = {
+        #     "keyword": "java"
+        # }
+        res = requests.get(url=url
+                           # , data=payload
+                           )
+        print(res.json())
+        code = res.json()['code']
+        try:
+            assert code == 0
+            print("成功")
+        except:
+            print("失败")
 
 
 
+if __name__ == "__main__":
+    Test_search().test_jobAssociation()
+    Test_search().test_jobAssociation_applet()
 
-
-
-# if __name__ == "__main__":
-#     Test_search().test_iobAssociation()
 

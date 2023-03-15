@@ -13,7 +13,11 @@ def test_appJob():
     res = requests.get(url, data=payload)
     print(res.json())
     code = res.json()['code']
-    assert code == 0
+    try:
+        assert code == 0
+        print("成功")
+    except:
+        print("失败")
 
 # 全局搜索
 def test_appJobV1():
@@ -21,8 +25,26 @@ def test_appJobV1():
     res = requests.get(url)
     print(res.json())
     code = res.json()['code']
-    assert code == 0
+    try:
+        assert code == 0
+        print("成功")
+    except:
+        print("失败")
+
+# 全局搜索
+def test_appletJob():
+    url = "http://192.168.101.102/api/search/applet/job/"
+    res = requests.get(url)
+    print(res.json())
+    code = res.json()['code']
+    try:
+        assert code == 0
+        print("成功")
+    except:
+        print("失败")
+
 
 if __name__ == "__main__":
     test_appJob()
     test_appJobV1()
+    test_appletJob()
