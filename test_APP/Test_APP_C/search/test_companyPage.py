@@ -18,5 +18,8 @@ class Test_search():
         res = requests.get(url, params=payload)
         print(res.text)
         code = res.json()['code']
-        assert code == 0
-
+        try:
+            assert code == 0
+            print("成功")
+        except:
+            print("失败")

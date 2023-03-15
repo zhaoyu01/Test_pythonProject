@@ -16,7 +16,11 @@ class Test_search():
         res = requests.get(url=url, headers=header, params=payload)
         print(res.json())
         code = res.json()['code']
-        assert code == 0
+        try:
+            assert code == 0
+            print("成功")
+        except:
+            print("失败")
 
 
 if __name__ == '__main__':

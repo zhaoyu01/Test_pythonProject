@@ -1,9 +1,8 @@
 import requests
 
-
-
-def test_applet_index():
-    url = "http://192.168.101.102/api/search/applet/job/recommendCompany"
+# 职位详情
+def test_appJobId():
+    url = "http://192.168.101.102/api/search/app/job/2570"
     res = requests.get(url)
     print(res.json())
     code = res.json()['code']

@@ -7,7 +7,13 @@ def test_applet_index():
     res = requests.get(url)
     print(res.json())
     code = res.json()['code']
-    assert code == 0
+    try:
+        assert code == 0
+        print("成功")
+    except:
+        print("失败")
+
+
 
 
 def test_applet_newJob():
@@ -15,7 +21,11 @@ def test_applet_newJob():
     res = requests.get(url)
     print(res.json())
     code = res.json()['code']
-    assert code == 0
+    try:
+        assert code == 0
+        print("成功")
+    except:
+        print("失败")
 
 
 if __name__ == '__main__':

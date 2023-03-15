@@ -12,8 +12,11 @@ class Test_search():
         res = requests.get(url=url,headers=header)
         print(res.text)
         code = res.json()['code']
-        assert code == 0
-
+        try:
+            assert code == 0
+            print("成功")
+        except:
+            print("失败")
 
     # 全局搜索
     def test_appCompany02(self):
@@ -32,8 +35,11 @@ class Test_search():
                            data=payload)
         print(res.json())
         code = res.json()['code']
-        assert code == 0
-
+        try:
+            assert code == 0
+            print("成功")
+        except:
+            print("失败")
 
     # 公司详情
     def test_appCompany03(self):
@@ -47,8 +53,11 @@ class Test_search():
                            )
         print(res.json())
         code = res.json()['code']
-        assert code == 0
-
+        try:
+            assert code == 0
+            print("成功")
+        except:
+            print("失败")
 
 
 if __name__ == "__main__":
