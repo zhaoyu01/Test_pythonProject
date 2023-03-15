@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="变更">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_BasicIndormation.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_BasicIndormation.py" afterDir="false" />
-    </list>
+    <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="变更" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,11 +204,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.case_run" />
-      <item itemvalue="Python.emali_test" />
-      <item itemvalue="Python.jjbcb" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.pythonProject1" />
+      <item itemvalue="Python.jjbcb" />
+      <item itemvalue="Python.emali_test" />
+      <item itemvalue="Python.case_run" />
       <item itemvalue="Python tests.pytest for test_BasicIndormation.Test_Basic_Information.test_basic_information" />
       <item itemvalue="Python tests.pytest in test_BasicIndormation.py" />
     </list>
@@ -354,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678870870156</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="变更">
+      <created>1678871056739</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678871056739</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
