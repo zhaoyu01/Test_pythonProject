@@ -1,0 +1,41 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -275,7 +275,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1678760084418</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="测试提交下">
++      <created>1678764618907</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1678764618907</updated>
++    </task>
++    <task id="LOCAL-00005" summary="测试提交下&#10;111">
++      <created>1678764708744</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1678764708744</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -284,7 +298,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="测试" />
+     <MESSAGE value="测试提交下" />
+-    <option name="LAST_COMMIT_MESSAGE" value="测试提交下" />
++    <MESSAGE value="测试提交下&#10;111" />
++    <option name="LAST_COMMIT_MESSAGE" value="测试提交下&#10;111" />
+   </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+     <SUITE FILE_PATH="coverage/pythonProject1$test_mailbox.coverage" NAME="test_mailbox 覆盖结果" MODIFIED="1678174793503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_new" />

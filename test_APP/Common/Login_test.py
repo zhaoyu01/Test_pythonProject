@@ -55,5 +55,4 @@ class Login:
 
 
 if __name__ == '__main__':
-    # Login().test_Blogin_sms()
-    Login().Login_sms_test()
+    Login().test_Blogin_sms()
