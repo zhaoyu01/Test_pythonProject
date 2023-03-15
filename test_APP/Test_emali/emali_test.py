@@ -1,8 +1,9 @@
-import smtplib, os
+import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
 from email.mime.multipart import MIMEMultipart
 from test_APP.Test_emali.time import get_webserver_datetime
+from testcase_nll.file_t import get_type_file
 
 
 def email_ttt():
@@ -14,29 +15,31 @@ def email_ttt():
     # 发送邮箱
     sender = '448204492@qq.com'
     # 接收邮箱
+    # receiver = ['li271050@163.com', '18035964746@163.com']
     receiver = ['13835348871@139.com', 'li271050@163.com', '18035964746@163.com']
 
     # 发送文件主题
     subject = '自动化测试报告'
     # 发送html格式的文件
-    # 读取文件
-    # get_webserver_datetime('www.baidu.com')
-    d = get_webserver_datetime('www.baidu.com')
-    print(d)
-    rrr = r'D:\zhaoyu\Test_pythonProject\test_APP\reports\2023-03-14_15_49_33.report.html'
+    #print(str(fill().report_file_list())[1:-1])
+
+
+    path = 'D:\zhaoyu\Test_pythonProject\\test_APP\\reports\\' + get_type_file()
+    print(path, '发的邮件文件在这里')
+    rrr = r'D:\zhaoyu\Test_pythonProject\test_APP\reports\.report.html'
     # path = os.getcwd() + r'D:\zhaoyu\Test_pythonProject\test_APP\reports\2023-03-14_15_49_33.report.html'
-    path = os.getcwd()
-    print(path)
+    # path = os.getcwd()
+    # print(path)
     # 编写HTML类的邮箱正文
-    file = open(d, 'rb')
-    print(file)
+    file = open(path, 'rb')
+    # print(file)
     f = file.read()
     file.close()
     msg = MIMEMultipart()
     # 实例化html文件
     html_part = MIMEText(f, 'base64', 'gb2312')  # 将html文件以附件的形式发送
     html_part['Content-Type'] = 'application/octet-stream'
-    html_part.add_header('Content-Disposition', 'attachment', filename='2023.report.html')  # filename是指下载的附件的命名
+    html_part.add_header('Content-Disposition', 'attachment', filename='测试报告.html')  # filename是指下载的附件的命名
 
     # 绑定到message里
     msg.attach(html_part)

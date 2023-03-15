@@ -6,7 +6,7 @@ class Login:
     def Login_sms_test(self):
         url = "http://192.168.101.102/api/user/app/common/login/sms"
         payload = {
-            "mobile": 19100000000,
+            "mobile": 15444444444,
             "code": 888888
         }
         res = requests.post(url, json=payload)
@@ -23,7 +23,7 @@ class Login:
 
         url = "http://192.168.101.102/api/user/app/common/login/password"
         payload = {
-            "mobile": 19100000000,
+            "mobile": 15444444444,
             "password": "a123456"
         }
         res = requests.post(url, json=payload)
@@ -39,7 +39,7 @@ class Login:
     def test_Blogin_sms(self):
         url = "http://192.168.101.102/api/member/app/auth/member/login/sms"
         payload = {
-            "mobile": 18411111111,
+            "mobile": 15444444444,
             "code": "888888"
         }
         res = requests.post(url, json=payload)
