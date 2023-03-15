@@ -13,6 +13,8 @@ class Test_red_packet():
         }
         res =requests.post(url=url,headers=header)
         print(res.json())
+        msg = res.json()['msg']
+        assert msg == '红包不存在'
 
 
 
