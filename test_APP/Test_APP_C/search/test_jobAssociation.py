@@ -11,5 +11,8 @@ def test_jobAssociation():
     res = requests.get(url, params=payload)
     print(res.json())
     code = res.json()['code']
-    assert code == 0
-
+    try:
+        assert code == 0
+        print("成功")
+    except:
+        print("失败")

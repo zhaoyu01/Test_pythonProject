@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="变更" />
+    <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="shangchaun">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Common/Login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Common/Login_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_redPack.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/personal/test_redPack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_APP_C/search/test_collect.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,15 +23,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="PATH_TO_GIT" value="D:\ruanjian\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value="dev_test" />
-      </list>
-    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/run_case.py" root0="FORCE_HIGHLIGHTING" />
@@ -42,23 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/zhaoyu/Test_pythonProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/zhaoyu/Test_pythonProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\zhaoyu\Test_pythonProject\test_APP\Test_APP_C\im" />
@@ -68,7 +65,29 @@
       <recent name="D:\zhaoyu\Test_pythonProject\test_APP\Test_APP_C\message" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.jjbcb">
+  <component name="RunManager" selected="Python 测试.test_name.test_edit_information1 的 pytest">
+    <configuration name="Login_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/Common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_APP/Common/Login_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="case_run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,94 +102,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_APP/case_run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="emali_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/Test_emali" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_APP/Test_emali/emali_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_e" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase_nll" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase_nll/file_e.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_t" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase_nll" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase_nll/file_t.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="jjbcb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase_nll" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase_nll/jjbcb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,22 +154,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_APP.APP_B.job.test_MemberSave.test_MemberSave 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/APP_B/test_member" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_APP.APP_B.job.test_MemberSave.test_MemberSave&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_add.test_edit 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/Test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_add.test_edit&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_name.test_edit_information1 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/Test_APP_C/personal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_name.test_edit_information1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.pythonProject1" />
-      <item itemvalue="Python.file_e" />
-      <item itemvalue="Python.file_t" />
-      <item itemvalue="Python.jjbcb" />
-      <item itemvalue="Python.emali_test" />
       <item itemvalue="Python.case_run" />
+      <item itemvalue="Python.Login_test" />
+      <item itemvalue="Python 测试.test_add.test_edit 的 pytest" />
+      <item itemvalue="Python 测试.test_name.test_edit_information1 的 pytest" />
+      <item itemvalue="Python 测试.test_APP.APP_B.job.test_MemberSave.test_MemberSave 的 pytest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.jjbcb" />
-        <item itemvalue="Python.emali_test" />
+        <item itemvalue="Python 测试.test_name.test_edit_information1 的 pytest" />
+        <item itemvalue="Python 测试.test_add.test_edit 的 pytest" />
         <item itemvalue="Python.case_run" />
-        <item itemvalue="Python.file_t" />
-        <item itemvalue="Python.file_e" />
+        <item itemvalue="Python.Login_test" />
+        <item itemvalue="Python 测试.test_APP.APP_B.job.test_MemberSave.test_MemberSave 的 pytest" />
       </list>
     </recent_temporary>
   </component>
@@ -273,12 +255,7 @@
       <workItem from="1678675018924" duration="20000" />
       <workItem from="1678675049220" duration="19560000" />
       <workItem from="1678696912824" duration="62000" />
-      <workItem from="1678697096936" duration="23844000" />
-      <workItem from="1678785608090" duration="43000" />
-      <workItem from="1678785659368" duration="515000" />
-      <workItem from="1678786189522" duration="6897000" />
-      <workItem from="1678842942435" duration="472000" />
-      <workItem from="1678843430362" duration="17679000" />
+      <workItem from="1678697096936" duration="9565000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1678697429496</created>
@@ -329,47 +306,110 @@
       <option name="project" value="LOCAL" />
       <updated>1678766241724</updated>
     </task>
-    <task id="LOCAL-00008" summary="删除测试数据">
-      <created>1678771298288</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1678771298288</updated>
-    </task>
-    <task id="LOCAL-00009" summary="发邮件配置">
-      <created>1678789432073</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1678789432073</updated>
-    </task>
-    <task id="LOCAL-00010" summary="发邮件配置">
-      <created>1678790608658</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1678790608658</updated>
-    </task>
-    <task id="LOCAL-00011" summary="发邮件配置">
-      <created>1678864856023</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1678864856023</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="测试" />
     <MESSAGE value="测试提交下" />
     <MESSAGE value="删除测试数据" />
-    <MESSAGE value="发邮件配置" />
-    <MESSAGE value="变更" />
-    <option name="LAST_COMMIT_MESSAGE" value="变更" />
+    <MESSAGE value="删除测试数据1" />
+    <MESSAGE value="shangchaun" />
+    <option name="LAST_COMMIT_MESSAGE" value="shangchaun" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject1$test_mailbox.coverage" NAME="test_mailbox 覆盖结果" MODIFIED="1678174793503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_new" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$case_run.coverage" NAME="case_run 覆盖结果" MODIFIED="1678697214766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_jobAssociation_test_jobAssociation__pytest.coverage" NAME="test_jobAssociation.test_jobAssociation 的 pytest 覆盖结果" MODIFIED="1678859718866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_companyBasicInfo_Test_search_test_company_BasicInfo__pytest.coverage" NAME="test_companyBasicInfo.Test_search.test_company_BasicInfo 的 pytest 覆盖结果" MODIFIED="1678856770322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$chat_status.coverage" NAME="chat-status 覆盖结果" MODIFIED="1678344458070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/app-c" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$clear.coverage" NAME="clear 覆盖结果" MODIFIED="1678684035382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_add_test_edit__pytest.coverage" NAME="test_add.test_edit 的 pytest 覆盖结果" MODIFIED="1678770938603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_case" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_recommendCompany_test_recommendCompany__pytest.coverage" NAME="test_recommendCompany.test_recommendCompany 的 pytest 覆盖结果" MODIFIED="1678861801814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$case_run.coverage" NAME="case_run 覆盖结果" MODIFIED="1678685345317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_iobAssociation_Test_search_test_jobAssociation__pytest.coverage" NAME="test_iobAssociation.Test_search.test_jobAssociation 的 pytest 覆盖结果" MODIFIED="1678858108986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_setup_password.coverage" NAME="test_setup_password 覆盖结果" MODIFIED="1678172831350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/My_tab" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$pytest__test_appCompany_py__.coverage" NAME="pytest (test_appCompany.py 内) 覆盖结果" MODIFIED="1678856696933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$pytest__test_ReleaseTmlp_py__.coverage" NAME="pytest (test_ReleaseTmlp.py 内) 覆盖结果" MODIFIED="1678689693916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/APP_B/test_position" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_name_test_edit_information1__pytest.coverage" NAME="test_name.test_edit_information1 的 pytest 覆盖结果" MODIFIED="1678770947285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/personal" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$pytest__test_association_py__.coverage" NAME="pytest (test_association.py 内) 覆盖结果" MODIFIED="1678785964012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_appJob_test_appJobV102__pytest.coverage" NAME="test_appJob.test_appJobV102 的 pytest 覆盖结果" MODIFIED="1678862071726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$money.coverage" NAME="money 覆盖结果" MODIFIED="1678173755655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/geren_zhongxin" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$pytest__test_appJob_py__.coverage" NAME="pytest (test_appJob.py 内) 覆盖结果" MODIFIED="1678862203359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$test_ReleaseTmlp_Test_release__pytest.coverage" NAME="test_ReleaseTmlp.Test_release 的 pytest 覆盖结果" MODIFIED="1678688281560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/APP_B/test_position" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_appletIndex_test_applet_index__pytest.coverage" NAME="test_appletIndex.test_applet_index 的 pytest 覆盖结果" MODIFIED="1678861578782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_run__1_.coverage" NAME="test_run (1) 覆盖结果" MODIFIED="1678355753586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_appletIndex_Test_applet_test_applet_newJob__pytest.coverage" NAME="test_appletIndex.Test_applet.test_applet_newJob 的 pytest 覆盖结果" MODIFIED="1678861125846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_name.coverage" NAME="test_name 覆盖结果" MODIFIED="1678344773442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/Test_case" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test.coverage" NAME="test 覆盖结果" MODIFIED="1678345891737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$pytest__test_run_py__.coverage" NAME="pytest (run_case.py 内) 覆盖结果" MODIFIED="1678675912036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$testttttt_Test_Cancelled__pytest.coverage" NAME="testttttt.Test_Cancelled 的 pytest 覆盖结果" MODIFIED="1678672235097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$pytest__testttttt_py__.coverage" NAME="pytest (testttttt.py 内) 覆盖结果" MODIFIED="1678672400449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$test_ReleaseTmlp_Test_release_test_release__pytest.coverage" NAME="test_ReleaseTmlp.Test_release.test_release 的 pytest 覆盖结果" MODIFIED="1678688270991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/APP_B/test_position" />
+    <SUITE FILE_PATH="coverage/pythonProject1$red_packet.coverage" NAME="red_packet 覆盖结果" MODIFIED="1678174355057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/geren_zhongxin" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$run_case.coverage" NAME="run_case 覆盖结果" MODIFIED="1678679468317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$pytest__test_companyBasicInfo_py__.coverage" NAME="pytest (test_companyBasicInfo.py 内) 覆盖结果" MODIFIED="1678851780981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Login_test.coverage" NAME="Login_test 覆盖结果" MODIFIED="1677666368531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/Common" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$nwe_test.coverage" NAME="nwe_test 覆盖结果" MODIFIED="1678685379460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/app-c" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$pytest__test_companyPage_py__.coverage" NAME="pytest (test_companyPage.py 内) 覆盖结果" MODIFIED="1678858015860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$email__1_.coverage" NAME="email (1) 覆盖结果" MODIFIED="1678687096274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_My_tab" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_appCompany_Test_search_test_appCompany02__pytest.coverage" NAME="test_appCompany.Test_search.test_appCompany02 的 pytest 覆盖结果" MODIFIED="1678856978552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$email.coverage" NAME="email 覆盖结果" MODIFIED="1678687051569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Common" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$test_mailbox_Test_mailbox__pytest.coverage" NAME="test_mailbox.Test_mailbox 的 pytest 覆盖结果" MODIFIED="1678684974061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_new" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_association_Test_search_test_searchAssociation__pytest.coverage" NAME="test_association.Test_search.test_searchAssociation 的 pytest 覆盖结果" MODIFIED="1678786462690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$testttttt_teardown_class_test_undo_cancelled__pytest.coverage" NAME="testttttt.teardown_class.test_undo_cancelled 的 pytest 覆盖结果" MODIFIED="1678672458399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_add.coverage" NAME="test_add 覆盖结果" MODIFIED="1677833815991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/Test_case" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_abtain_email.coverage" NAME="test_abtain_email 覆盖结果" MODIFIED="1678151751934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_new" />
+    <SUITE FILE_PATH="coverage/pythonProject1$pytest__test_run_py__.coverage" NAME="pytest (test_run.py 内) 覆盖结果" MODIFIED="1678674893003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$Login_test.coverage" NAME="Login_test 覆盖结果" MODIFIED="1678692624098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Common" />
+    <SUITE FILE_PATH="coverage/pythonProject1$nwe_test.coverage" NAME="nwe_test 覆盖结果" MODIFIED="1678344724468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/app-c" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$pytest__test_recommendCompany_py__.coverage" NAME="pytest (test_recommendCompany.py 内) 覆盖结果" MODIFIED="1678858977060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_recommendCompany_Test_search_test_recommendCompany__pytest.coverage" NAME="test_recommendCompany.Test_search.test_recommendCompany 的 pytest 覆盖结果" MODIFIED="1678858892629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$testttttt.coverage" NAME="testttttt 覆盖结果" MODIFIED="1678672469805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$pytest__test_jobAssociation_py__.coverage" NAME="pytest (test_jobAssociation.py 内) 覆盖结果" MODIFIED="1678860252717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_jobRecommendCompany_test_applet_index__pytest.coverage" NAME="test_jobRecommendCompany.test_applet_index 的 pytest 覆盖结果" MODIFIED="1678862761674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$information_test.coverage" NAME="information_test 覆盖结果" MODIFIED="1677833873457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/My_tab" />
+    <SUITE FILE_PATH="coverage/pythonProject1$testttttt_Test_Cancelled_test_undo_cancelled__pytest.coverage" NAME="testttttt.Test_Cancelled.test_undo_cancelled 的 pytest 覆盖结果" MODIFIED="1678672261967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$test_ReleaseTmlp_test_release__pytest.coverage" NAME="test_ReleaseTmlp.test_release 的 pytest 覆盖结果" MODIFIED="1678691174868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/APP_B/test_position" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$reports_clear.coverage" NAME="reports_clear 覆盖结果" MODIFIED="1678678342186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_appletIndex_test_applet_newJob__pytest.coverage" NAME="test_appletIndex.test_applet_newJob 的 pytest 覆盖结果" MODIFIED="1678861593840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_case.coverage" NAME="test_case 覆盖结果" MODIFIED="1678345972575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test" />
+    <SUITE FILE_PATH="coverage/pythonProject1$email.coverage" NAME="email 覆盖结果" MODIFIED="1677666626517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/Common" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_info.coverage" NAME="test_info 覆盖结果" MODIFIED="1678172770174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/My_tab" />
+    <SUITE FILE_PATH="coverage/pythonProject1$result_send.coverage" NAME="result_send 覆盖结果" MODIFIED="1678174339621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/geren_zhongxin" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_appJob_test_appJobV1__pytest.coverage" NAME="test_appJob.test_appJobV1 的 pytest 覆盖结果" MODIFIED="1678861992075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$update_userConfig.coverage" NAME="update_userConfig 覆盖结果" MODIFIED="1678173620847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/app-c" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_appCompany_Test_search_test_appCompany03__pytest.coverage" NAME="test_appCompany.Test_search.test_appCompany03 的 pytest 覆盖结果" MODIFIED="1678857001925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$pytest__test_appletIndex_py__.coverage" NAME="pytest (test_appletIndex.py 内) 覆盖结果" MODIFIED="1678861681798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_companyPage_Test_search_test_companyPage__pytest.coverage" NAME="test_companyPage.Test_search.test_companyPage 的 pytest 覆盖结果" MODIFIED="1678858095244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_login.coverage" NAME="test_login 覆盖结果" MODIFIED="1677665620598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_new" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_001.coverage" NAME="test_001 覆盖结果" MODIFIED="1677834503877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_new" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$yxl_Test_Analysis_test_analysis__pytest.coverage" NAME="yxl.Test_Analysis.test_analysis 的 pytest 覆盖结果" MODIFIED="1678782726378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search/.pytest_cache" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$pytest__test_redPack_py__.coverage" NAME="pytest (test_redPack.py 内) 覆盖结果" MODIFIED="1678846083540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/personal" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_collect.coverage" NAME="test_collect 覆盖结果" MODIFIED="1678173698792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/app-c" />
+    <SUITE FILE_PATH="coverage/pythonProject1$message_read.coverage" NAME="message_read 覆盖结果" MODIFIED="1678173559379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/app-c" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_appCompany_Test_search__pytest.coverage" NAME="test_appCompany.Test_search 的 pytest 覆盖结果" MODIFIED="1678857071742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_companyBasicInfo_test_company_BasicInfo__pytest.coverage" NAME="test_companyBasicInfo.test_company_BasicInfo 的 pytest 覆盖结果" MODIFIED="1678849293305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_search_Test_search__pytest.coverage" NAME="test_search.Test_search 的 pytest 覆盖结果" MODIFIED="1678789210461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$csv_test.coverage" NAME="csv_test 覆盖结果" MODIFIED="1678438482841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject1$defChat.coverage" NAME="defChat 覆盖结果" MODIFIED="1678173524108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/app-c" />
+    <SUITE FILE_PATH="coverage/pythonProject1$csv1_test.coverage" NAME="csv1_test 覆盖结果" MODIFIED="1678439281973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$test_ReleaseTmlp_Test_release_test_releasse__pytest.coverage" NAME="test_ReleaseTmlp.Test_release.test_releasse 的 pytest 覆盖结果" MODIFIED="1678686671143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/APP_B/test_position" />
+    <SUITE FILE_PATH="coverage/pythonProject1$reject_send.coverage" NAME="reject_send 覆盖结果" MODIFIED="1678173954787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/geren_zhongxin" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$Login_test.coverage" NAME="Login_test 覆盖结果" MODIFIED="1678781037783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Common" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$test_MemberSave_test_MemberSave__pytest.coverage" NAME="test_MemberSave.test_MemberSave 的 pytest 覆盖结果" MODIFIED="1678692340755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/APP_B/test_member" />
+    <SUITE FILE_PATH="coverage/pythonProject1$pytest__test_csvvvv_py__.coverage" NAME="pytest (test_csvvvv.py 内) 覆盖结果" MODIFIED="1678671389442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_companyBasicInfo_Test_search_test_compantyBasicInfo__pytest.coverage" NAME="test_companyBasicInfo.Test_search.test_compantyBasicInfo 的 pytest 覆盖结果" MODIFIED="1678848486226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_setup_confin.coverage" NAME="test_setup_confin 覆盖结果" MODIFIED="1678172852554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_new" />
+    <SUITE FILE_PATH="coverage/pythonProject1$application_send.coverage" NAME="application-send 覆盖结果" MODIFIED="1678173723442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase_nll/geren_zhongxin" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_association_Test_search_test_searchCompany__pytest.coverage" NAME="test_association.Test_search.test_searchCompany 的 pytest 覆盖结果" MODIFIED="1678785937409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/pythonProject1$pytest__test_case_py__.coverage" NAME="pytest (test_case.py 内) 覆盖结果" MODIFIED="1678674873544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$test_confing_Test_Confing_test_confing__pytest.coverage" NAME="test_confing.Test_Confing.test_confing 的 pytest 覆盖结果" MODIFIED="1678685316614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_new" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_searchCompany_Test_search_test_searchCompany__pytest.coverage" NAME="test_searchCompany.Test_search.test_searchCompany 的 pytest 覆盖结果" MODIFIED="1678843537267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject1$pytest__test_case_py__.coverage" NAME="pytest (test_case.py 内) 覆盖结果" MODIFIED="1678675646771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP" />
+    <SUITE FILE_PATH="coverage/pythonProject1$test_Mobile.coverage" NAME="test_Mobile 覆盖结果" MODIFIED="1678172929692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/My_tab" />
   </component>
 </project>
