@@ -7,7 +7,7 @@ class Test_search():
     def test_appCompany01(self):
         url = "http://192.168.101.102/api/search/app/company?natureId=&businessId=&scaleId=&financingId=&index=1&size=20"
         header = {
-            "token": Login().Login_sms_test01()
+            "token": Login().Login_sms_test_li()
         }
         res = requests.get(url=url,headers=header)
         print(res.text)
@@ -22,7 +22,7 @@ class Test_search():
     def test_appCompany02(self):
         url = "http://192.168.101.102/api/search/app/company"
         header = {
-            "token": Login().Login_sms_test01()
+            "token": Login().Login_sms_test_li()
         }
         payload = {
             "keyword": "强盛建工集团",
@@ -45,12 +45,10 @@ class Test_search():
     def test_appCompany03(self):
         url = "http://192.168.101.102/api/search/app/company/1666319565542"
         header ={
-            "token": Login().Login_sms_test01()
+            "token": Login().Login_sms_test_li()
         }
 
-        res = requests.get(url=url
-                           ,headers=header
-                           )
+        res = requests.get(url=url,headers=header)
         print(res.json())
         code = res.json()['code']
         try:

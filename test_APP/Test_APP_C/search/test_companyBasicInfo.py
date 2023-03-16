@@ -8,7 +8,7 @@ class Test_search():
     def test_company_BasicInfo(self):
         url = "http://192.168.101.102/api/user/app/company/basic-info"
         header = {
-            "token": Login().Login_sms_test01()
+            "token": Login().Login_sms_test_li()
         }
         payload = {
             "companyName": "海南强盛集团有限公司"
