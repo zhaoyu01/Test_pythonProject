@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a34c3cc-3723-4bfc-a85f-41d470f6a61d" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/discovery/test_discoveryInformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/discovery/test_discoveryInformationId.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/discovery/test_informationLike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/discovery/test_popularInformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/doc/test_appDoc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/doc/test_docDocmentCat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_APP/Test_APP_C/im/test_resultSend.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/im/test_sendImMsg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_APP/Test_APP_C/message/test_smartJob.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_APP/Test_APP_C/message/test_smartJob.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +70,7 @@
       <recent name="D:\zhaoyu\Test_pythonProject\test_APP\Test_APP_C\personal" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_sendImMsg">
+  <component name="RunManager" selected="Python.test_appDoc">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,6 +129,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_APP/Test_APP_C/doc/test_appDoc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_discoveryInformationId" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/Test_APP_C/discovery" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_APP/Test_APP_C/discovery/test_discoveryInformationId.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,44 +225,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_sendImMsg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_APP/Test_APP_C/im" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Test_pythonProject\test_APP\Test_APP_C\im\test_sendImMsg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.pythonProject1" />
       <item itemvalue="Python.test_appDoc" />
+      <item itemvalue="Python.test_discoveryInformationId" />
       <item itemvalue="Python.test_docDocmentCat" />
       <item itemvalue="Python.test_informationLike" />
       <item itemvalue="Python.test_popularInformation" />
-      <item itemvalue="Python.test_sendImMsg" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_sendImMsg" />
         <item itemvalue="Python.test_appDoc" />
         <item itemvalue="Python.test_docDocmentCat" />
         <item itemvalue="Python.test_informationLike" />
         <item itemvalue="Python.test_popularInformation" />
+        <item itemvalue="Python.test_discoveryInformationId" />
       </list>
     </recent_temporary>
   </component>
@@ -347,21 +354,7 @@
       <option name="project" value="LOCAL" />
       <updated>1678947484120</updated>
     </task>
-    <task id="LOCAL-00012" summary="shangchaun">
-      <created>1678958298617</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1678958298617</updated>
-    </task>
-    <task id="LOCAL-00013" summary="shangchaun">
-      <created>1678960242698</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1678960242698</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +448,7 @@
     <SUITE FILE_PATH="coverage/Test_pythonProject$test_add_test_edit__pytest.coverage" NAME="test_add.test_edit 的 pytest 覆盖结果" MODIFIED="1678770938603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_case" />
     <SUITE FILE_PATH="coverage/Test_pythonProject$test_recommendCompany_test_recommendCompany__pytest.coverage" NAME="test_recommendCompany.test_recommendCompany 的 pytest 覆盖结果" MODIFIED="1678870352872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
     <SUITE FILE_PATH="coverage/Test_pythonProject1$case_run.coverage" NAME="case_run 覆盖结果" MODIFIED="1678685345317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP" />
-    <SUITE FILE_PATH="coverage/Test_pythonProject$test_appDoc.coverage" NAME="test_appDoc 覆盖结果" MODIFIED="1678960207168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/doc" />
+    <SUITE FILE_PATH="coverage/Test_pythonProject$test_appDoc.coverage" NAME="test_appDoc 覆盖结果" MODIFIED="1678958277195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/doc" />
     <SUITE FILE_PATH="coverage/pythonProject1$test_setup_password.coverage" NAME="test_setup_password 覆盖结果" MODIFIED="1678172831350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/My_tab" />
     <SUITE FILE_PATH="coverage/Test_pythonProject1$pytest__test_ReleaseTmlp_py__.coverage" NAME="pytest (test_ReleaseTmlp.py 内) 覆盖结果" MODIFIED="1678689693916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/APP_B/test_position" />
     <SUITE FILE_PATH="coverage/Test_pythonProject$test_name_test_edit_information1__pytest.coverage" NAME="test_name.test_edit_information1 的 pytest 覆盖结果" MODIFIED="1678770947285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/personal" />
@@ -473,7 +466,6 @@
     <SUITE FILE_PATH="coverage/Test_pythonProject$Nosetest__test_companyPage_py__.coverage" NAME="Nosetest (test_companyPage.py 内) 覆盖结果" MODIFIED="1678944582699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
     <SUITE FILE_PATH="coverage/pythonProject1$test_add.coverage" NAME="test_add 覆盖结果" MODIFIED="1677833815991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP_Test/Test_case" />
     <SUITE FILE_PATH="coverage/pythonProject1$pytest__test_run_py__.coverage" NAME="pytest (test_run.py 内) 覆盖结果" MODIFIED="1678674893003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Test_pythonProject$test_resultSend.coverage" NAME="test_resultSend 覆盖结果" MODIFIED="1678960696458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/im" />
     <SUITE FILE_PATH="coverage/Test_pythonProject1$Login_test.coverage" NAME="Login_test 覆盖结果" MODIFIED="1678692624098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Common" />
     <SUITE FILE_PATH="coverage/Test_pythonProject$pytest__test_recommendCompany_py__.coverage" NAME="pytest (test_recommendCompany.py 内) 覆盖结果" MODIFIED="1678858977060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/search" />
     <SUITE FILE_PATH="coverage/Test_pythonProject$test_smartJob_test_smartJob__Nosetest.coverage" NAME="test_smartJob.test_smartJob 的 Nosetest 覆盖结果" MODIFIED="1678949268403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_APP/Test_APP_C/message" />
