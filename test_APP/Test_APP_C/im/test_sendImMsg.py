@@ -5,7 +5,7 @@ import json
 from test_APP.Common.Login_test import Login
 
 class Test_send():
-    def test_result_send(self):
+    def test_sendImMsg(self):
         url="http://192.168.101.102/api/user/app/im/sendImMsg"
         header={
             "token": Login().Login_sms_test(),
@@ -26,9 +26,9 @@ class Test_send():
             }],
             "SendMsgControl": ["NoUnread"]
         }
-        res=requests.post(url=url,headers=header,data=json.dumps(payload))
+        res = requests.post(url=url, headers=header, data=json.dumps(payload))
         print(res.json())
-        res.json()['code']
+        code = res.json()['code']
         if res.json()['code'] == 0:
             print('成功')
         else:
@@ -40,4 +40,4 @@ class Test_send():
 
 
 if __name__ == '__main__':
-    Test_send().test_result_send()
+    Test_send().test_sendImMsg()
