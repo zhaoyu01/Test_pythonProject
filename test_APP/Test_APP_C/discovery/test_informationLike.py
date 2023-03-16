@@ -1,9 +1,9 @@
 import requests
 from test_APP.Common.Login_test import Login
 
-# 智能消息-职位消息
-def test_smartJob():
-    url = "http://192.168.101.102/api/user/app/message/message/smart-job"
+# 点赞/取消点赞资讯
+def test_informationLike01():
+    url = "http://192.168.101.102/api/user/app/discovery/information/like?id=65"
     header = {
         "token": Login().Login_sms_test_li()
     }
@@ -12,17 +12,14 @@ def test_smartJob():
     code = res.json()['code']
     try:
         assert code == 0
-        print('成功')
+        print('点赞成功')
     except:
         assert code != 0
-        print('失败')
+        print('不成功')
 
 
-
-
-# 智能消息-除了职位
-def test_messageSmart():
-    url = "http://192.168.101.102/api/user/app/message/message/smart"
+def test_informationLike02():
+    url = "http://192.168.101.102/api/user/app/discovery/information/like?id=65"
     header = {
         "token": Login().Login_sms_test_li()
     }
@@ -31,13 +28,19 @@ def test_messageSmart():
     code = res.json()['code']
     try:
         assert code == 0
-        print('成功')
+        print('取消成功')
     except:
         assert code != 0
-        print('失败')
+        print('不成功')
 
 
-#
+
+
+
+
+
+
+
 if __name__ == "__main__":
-    test_smartJob()
-    test_messageSmart()
+    test_informationLike01()
+    test_informationLike02()
