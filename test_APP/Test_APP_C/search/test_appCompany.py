@@ -48,9 +48,7 @@ class Test_search():
             "token": Login().Login_sms_test01()
         }
 
-        res = requests.get(url=url
-                           ,headers=header
-                           )
+        res = requests.get(url=url, headers=header)
         print(res.json())
         code = res.json()['code']
         try:

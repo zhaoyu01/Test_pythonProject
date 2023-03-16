@@ -15,8 +15,8 @@ pytest.main(['--report=.report.html',
              '--desc=报告描述信息',
              '--template=2'])
 
-print(clear.ret)# 执行reports 文件清除 需要时打开注释即可
-sleep(3)
+# print(clear.ret)# 执行reports 文件清除 需要时打开注释即可
+# sleep(3)
 
 # email_ttt()
 

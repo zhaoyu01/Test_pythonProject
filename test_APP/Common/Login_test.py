@@ -62,7 +62,7 @@ class Login:
         res = requests.post(url, json=payload)
         try:
             assert res.json()['code'] == 0
-            print(res.json(), '登录成功')
+            # print(res.json(), '登录成功')
             return res.json()['data']['token']
 
         except:

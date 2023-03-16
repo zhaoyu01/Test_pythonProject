@@ -19,7 +19,7 @@ def Test_talentSearch():
     print(res.text)
     try:
         assert res.json()['code'] == 0
-        print('搜索正常')
+        print('搜索成功')
     except:
         assert res.json()['code'] != 0
         print('搜索失败')
