@@ -18,21 +18,6 @@ class Login:
             assert res.json()['code'] != 0
             print('登录失败请查看原因')
 
-    def Login_sms_test_li(self):
-        url = "http://192.168.101.102/api/user/app/common/login/sms"
-        payload = {
-            "mobile": 15100000000,
-            "code": 888888
-        }
-        res = requests.post(url, json=payload)
-        try:
-            assert res.json()['code'] == 0
-            print(res.json())
-            return res.json()['data']['token']
-        except:
-            assert res.json()['code'] != 0
-            print('登录失败请查看原因')
-
     # 密码登录
     def Login_psd_test(self):
 
@@ -71,5 +56,3 @@ class Login:
 
 if __name__ == '__main__':
     Login().test_Blogin_sms()
-    Login().Login_sms_test_li()
-

@@ -19,15 +19,15 @@ class DeleteFile(object):
         logger = logging.getLogger()  # 实例化了一个logger对象
         # 在国外叫handler，在中国翻译过来，叫句柄
         # 设置文件名和编码
-        fh = logging.FileHandler('delete.log', encoding='utf-8')  # 实例化了一个文件句柄 # 格式和文件句柄或者屏幕句柄关联
+        # fh = logging.FileHandler('delete.log', encoding='utf-8')  # 实例化了一个文件句柄 # 格式和文件句柄或者屏幕句柄关联
         sh = logging.StreamHandler()  # 用于输出到控制台
 
         fmt = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')  # 格式化
-        fh.setFormatter(fmt)  # 格式和文件句柄或者屏幕句柄关联
+        # fh.setFormatter(fmt)  # 格式和文件句柄或者屏幕句柄关联
         sh.setFormatter(fmt)
 
         # 吸星大法
-        logger.addHandler(fh)  # 吸收写文件功能 和logger关联的只有句柄
+        # logger.addHandler(fh)  # 吸收写文件功能 和logger关联的只有句柄
         logger.addHandler(sh)  # 吸收输出屏幕功能
         logger.setLevel(logging.DEBUG)  # 设置警告级别为debug,此处DEBUG源码为DEBUG = 10
 

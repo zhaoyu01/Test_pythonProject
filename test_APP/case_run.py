@@ -16,9 +16,9 @@ pytest.main(['--report=.report.html',
              '--template=2'])
 
 print(clear.ret)# 执行reports 文件清除 需要时打开注释即可
-sleep(3)
+# sleep(3)
 
-email_ttt()
+# email_ttt()
 
 # cmd = "allure serve reports"
 # tmp = os.popen(cmd)
