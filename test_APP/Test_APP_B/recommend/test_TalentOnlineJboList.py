@@ -7,7 +7,7 @@ def Test_OlJobList(null=None):
     url = 'http://192.168.101.102/api/member/app/recommend/talent/online-job-list'
     header = {
         # 'token': Login().test_Blogin_sms()
-        'token': 'e7c75215f84e4b73b8c42975f46f87581',
+        'token': 'e7c75215f84e4b73b8c42975f46f8758',
         'identity': 'PLANS'
     }
     res = requests.get(url=url, headers=header)

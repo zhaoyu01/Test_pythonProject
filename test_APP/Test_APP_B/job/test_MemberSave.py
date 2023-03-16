@@ -26,6 +26,8 @@ def test_MemberSave():
     except:
         assert res.json()['code'] != 0
         print('资料修改失败')
-
+    finally:
+        assert res.json()['code'] == 1
+        print('信息输入有误')
 
 test_MemberSave()
